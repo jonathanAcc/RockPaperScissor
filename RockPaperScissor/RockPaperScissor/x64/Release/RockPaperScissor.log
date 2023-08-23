@@ -1,0 +1,19 @@
+﻿  RockPaperScissor.cpp
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(24,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(112,5): error C2084: function 'int SetRounds(void)' already has a body
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(15): message : see previous definition of 'SetRounds'
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(120,6): error C2084: function 'void SetSeeds(void)' already has a body
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(23): message : see previous definition of 'SetSeeds'
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(121,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(123,5): error C2084: function 'int UserSelectChoice(std::string [])' already has a body
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(26): message : see previous definition of 'UserSelectChoice'
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(132,5): error C2084: function 'int GenerateNumber(void)' already has a body
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(35): message : see previous definition of 'GenerateNumber'
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(139,5): error C2084: function 'int MessageLose(std::string [],int)' already has a body
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(42): message : see previous definition of 'MessageLose'
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(144,5): error C2084: function 'int MessageWin(std::string [],int)' already has a body
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(47): message : see previous definition of 'MessageWin'
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(149,5): error C2084: function 'int MessageTie(std::string [],int)' already has a body
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(52): message : see previous definition of 'MessageTie'
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(154,6): error C2084: function 'void ShowMessageWhenEndGame(int,int,int)' already has a body
+E:\CPP projects\RockPaperScissor\RockPaperScissor\RockPaperScissor.cpp(57): message : see previous definition of 'ShowMessageWhenEndGame'
